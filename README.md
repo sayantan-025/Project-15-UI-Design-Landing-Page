@@ -2,7 +2,7 @@
 
 ![Created By Sayantan Bera](https://img.shields.io/badge/Created%20By-Sayantan%20Bera-blue)
 
-## **Project-9** [Live Link](https://plant-landing-page-sayantan.netlify.app/)
+## **Project-15** [Live Link](https://ui-design-landing-page.netlify.app/)
 
 ### Website Image
 
@@ -14,4 +14,6 @@
 
 - Learned to create background box for visual design.
 
-## This project took around 3.5 hours to complete.
+- Learn more about css grid.
+
+## This project took around 4.5 hours to complete and 3.5 hours to responsive.
