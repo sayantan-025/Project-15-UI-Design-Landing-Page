@@ -2,11 +2,11 @@
 
 ![Created By Sayantan Bera](https://img.shields.io/badge/Created%20By-Sayantan%20Bera-blue)
 
-## **Project-15** [Live Link](https://ui-design-landing-page.netlify.app/)
+## **Project-15** [Live Link](https://ui-design-landing-page.netlify.app//)
 
 ### Website Image
 
-![website img](./screenshots/project%2015.png)
+![website img](./screenshots/poster.png)
 
 ---
 
